@@ -78,7 +78,7 @@ Este repositório contém todo o material necessário para o Curso Completo de S
 
 ## Como Usar Este Repositório
 
-1. Clone o repositório
+1. Clone o repositório: ```git clone https://github.com/aureliowozhiak/Curso-Completo-de-SQL```
 2. Execute o Docker Compose:
 ```bash
 docker-compose up -d
